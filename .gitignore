@@ -12,3 +12,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 !README.md
+
+node_modules
+notes-api-web-server.pem
+.env
+.prod.env
